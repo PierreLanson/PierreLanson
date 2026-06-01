@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PierreLanson
 - 👀 I’m interested in Chess, Maths and Computers 
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I know Python and SQL
 - 💞️ I’m looking to collaborate on a financial data project into indexfunds 
 - 📫 How to reach me by ...
 - 😄 Pronouns: ...
